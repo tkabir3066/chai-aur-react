@@ -1,8 +1,9 @@
+import Chai from "./Chai";
 function App() {
   return (
     <>
       <div>
-        <h1>Hello From React</h1>
+        <Chai />
       </div>
     </>
   );
